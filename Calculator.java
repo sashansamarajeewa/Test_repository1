@@ -21,7 +21,7 @@ public class Calculator{
 		System.out.print("multiplication=:"+(number1*number2));
 
 		}
-		public static void square(int number1){
+	public static void square(int number1){
 		System.out.print("square=:"+(number1*number1));
 
 		}
